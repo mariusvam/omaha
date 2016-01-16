@@ -1,0 +1,1 @@
+Please refer to the product documentation on GitHub: https://github.com/google/omaha/blob/wiki/ServerProtocolV3.md
